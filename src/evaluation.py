@@ -1,3 +1,5 @@
+# evaluation.py: contains functions for plotting classified images and computing accuracy
+
 import matplotlib.pyplot as plt
 import numpy as np
 import math

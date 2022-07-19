@@ -1,3 +1,5 @@
+# initialization.py: contains code to load/extract the MNIST dataset and initialize the neural network
+
 import matplotlib.pyplot as plt
 import numpy as np
 

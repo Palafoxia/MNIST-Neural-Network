@@ -1,3 +1,5 @@
+# training.py: Contains code for forward/back propagation and the gradient descent optimizer
+
 import numpy as np
 from functions import *
 

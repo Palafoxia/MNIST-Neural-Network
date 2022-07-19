@@ -1,3 +1,5 @@
+# functions.py: contains the loss and activation functions as well as a helper function to truncate floats
+
 import numpy as np
 
 # SIGMOID ACTIVATION FUNCTION
