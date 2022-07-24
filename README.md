@@ -13,7 +13,7 @@ Examples of correctly and incorrectly classified images from both datasets are d
 Then, the program prompts the user if they'd like to view more images.
 The user is given  options to choose the dataset (test/training), number of images, and whether they'd like to only view images of a specified digit.
 
-## Running the application
+## Running the Application
 The application runs in the form of a console application and a Jupyter notebook `MNIST Neural Network.ipynb`.
 Make sure to install all necessary libraries or use the included virtual environment `venv/` before running the application.
 - tensorflow
@@ -31,7 +31,7 @@ You may either follow along and run one code block at a time, or run the entire 
 The Jupyter notebook allows you to interact with the code.
 You may experiment with changing the learning rate or number of training epochs to improve performance/efficiency.
 
-## Project structure
+## Project Structure
 ### Source Code
 - `evaluation.py` in `src/` contains functions for plotting classified images and computing accuracy
 - `functions.py` in `src/` contains the loss and activation functions as well as a helper function to truncate floats
